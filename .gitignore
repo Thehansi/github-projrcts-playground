@@ -1,1 +1,4 @@
 nodd
+.DS_Store
+.tmp
+npm_debug.log
